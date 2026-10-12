@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+.env
+
+# Local data: DuckDB file, parquet snapshots, generated reports
+data/
+reports/
